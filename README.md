@@ -1,1 +1,1 @@
-# EMAIl-BOMBER
+How To Run It download Python Then When You Download It Go Back Here And Download As A Zip File Then You Go To Window Search Tab And Type Python Idle and Then You Go To The Zip File You Download And Then The Code Should Run Then You Go to Run On The Top And Click Run Module Then Your In The Script 
